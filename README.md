@@ -1,7 +1,11 @@
-# CCM101-Cloud Computing Portfolio
+# Cloud Computing Portfolio
 
-Hello! My name is Rhea Mae Desierto, and I am an Information Technology student.
+## About Me
 
-This repository is my Cloud Computing Portfolio for CCM101. It contains my laboratory activities, documentation, technical exercises, screenshots, and reflections completed throughout the semester.
+Hello! My name is Rhea Desierto. I am a fourth-year Bachelor of Science in Information Technology (BSIT) student from Block E.
 
-Through these activities, I will develop my skills in Linux, cloud infrastructure, virtualization, Git, Docker, Kubernetes, and other cloud technologies.
+This repository contains my laboratory activities, exercises, documentation, and reflections completed throughout the semester. It serves as my Cloud Computing portfolio and records my learning progress and experiences throughout the course.
+
+## Laboratory Activities
+
+- Laboratory 01 – Welcome to the Cloud
