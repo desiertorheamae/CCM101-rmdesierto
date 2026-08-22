@@ -1,5 +1,4 @@
-# CCM101-rmdesierto
-# Cloud Computing Portfolio
+# CCM101-Cloud Computing Portfolio
 
 Hello! My name is Rhea Mae Desierto, and I am an Information Technology student.
 
