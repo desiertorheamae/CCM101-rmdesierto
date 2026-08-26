@@ -8,5 +8,5 @@ This repository contains my laboratory activities, exercises, documentation, and
 
 ## Laboratory Activities
 
-- https://github.com/desiertorheamae/CCM101-rmdesierto/tree/main/Laboratory-01-Welcome-to-the-Cloud
-- Laboratory 02 – Build the Cloud Infrastructure
+- Laboratory-01-Welcome-to-the-Cloud
+- Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint
