@@ -1,3 +1,29 @@
-# About Me
+# 💻 Dev Profile: Rhea Mae C. Desierto
 
-My name is Rhea Mae Desierto, and I am an Information Technology student learning about Cloud Computing. This repository is my personal Cloud Computing portfolio, where I will organize and document my laboratory activities, technical exercises, screenshots, and reflections throughout the semester. It will also help me develop my skills in Linux, cloud infrastructure, virtualization, and other cloud technologies.
+> *"Learning, building, and growing through technology."*
+
+---
+
+## 👩‍💻 Basic Info
+
+* **Name:** Rhea Mae C. Desierto
+* **Username:** `desiertorheamae`
+* **Academic Level:** 4th Year Student
+* **Program:** BS Information Technology
+* **Block:** Block E
+
+---
+
+## 💼 Roles & Goals
+
+* 🎓 **IT Student:** Developing skills in cloud computing, programming, and information technology
+* ☁️ **Cloud Computing Learner:** Building practical knowledge through laboratory activities and projects
+* 💻 **Future IT Professional:** Continuously improving technical and problem-solving skills
+
+---
+
+## 🎮 Hobbies & Passions
+
+* 🌐 **Web Development:** Interested in creating and developing websites
+* 📚 **Learning:** Continuously developing new technical skills
+
