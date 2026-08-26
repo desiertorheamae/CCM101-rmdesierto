@@ -9,7 +9,6 @@ This repository contains my laboratory activities, exercises, documentation, and
 ## Laboratory Activities
 
 - Laboratory 01 – Welcome to the Cloud
-# Checkpoint 6 – Technical Documentation
 
 ## Mission Overview
 
