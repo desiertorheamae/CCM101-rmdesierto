@@ -10,13 +10,14 @@
 | **Number of CPU Cores** | 1 |
 | **Total RAM** | 1.9 GB |
 | **Disk Capacity** | 13 GB |
-| **Mounted File Systems** | **Filesystem** | **Type** | **Size** | **Used** | **Avail** | **Use%** | **Mounted on** |
-|---|---|---|---|---|---|---|---|
-|  | tmpfs | tmpfs | 191M | 996K | 190M | 1% | /run |
-|  | /dev/vda1 | ext4 | 19G | 5.4G | 13G | 30% | / |
-|  | tmpfs | tmpfs | 952M | 84K | 952M | 1% | /dev/shm |
-|  | tmpfs | tmpfs | 5.0M | 0 | 5.0M | 0% | /run/lock |
-|  | /dev/vda16 | ext4 | 881M | 117M | 703M | 15% | /boot |
-|  | /dev/vda15 | vfat | 105M | 6.2M | 99M | 6% | /boot/efi |
+## Mounted File Systems
+| **Filesystem** | **Type** | **Size** | **Used** | **Avail** | **Use%** | **Mounted on** |
+|---|---|---|---|---|---|---|
+| tmpfs | tmpfs | 191M | 996K | 190M | 1% | /run |
+| /dev/vda1 | ext4 | 19G | 5.4G | 13G | 30% | / |
+| tmpfs | tmpfs | 952M | 84K | 952M | 1% | /dev/shm |
+| tmpfs | tmpfs | 5.0M | 0 | 5.0M | 0% | /run/lock |
+| /dev/vda16 | ext4 | 881M | 117M | 703M | 15% | /boot |
+| /dev/vda15 | vfat | 105M | 6.2M | 99M | 6% | /boot/efi |
 | **Hostname** | ubuntu |
 | **IP Address** | 172.30.1.2, 172.17.0.1 |
