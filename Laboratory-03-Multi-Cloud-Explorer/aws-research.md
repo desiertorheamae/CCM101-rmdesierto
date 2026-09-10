@@ -39,7 +39,4 @@ AWS is commonly used by enterprises for application hosting, website development
 - [AWS Official Website](https://aws.amazon.com/)
 - [AWS Management Console Documentation](https://docs.aws.amazon.com/awsconsolehelpdocs/)
 - [AWS Regions and Availability Zones](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html)
-- [Amazon EC2 Documentation](https://docs.aws.amazon.com/ec2/)
-- [Amazon S3 Documentation](https://docs.aws.amazon.com/s3/)
-- [Amazon VPC Documentation](https://docs.aws.amazon.com/vpc/)
-- [AWS IAM Documentation](https://docs.aws.amazon.com/iam/)
+  
