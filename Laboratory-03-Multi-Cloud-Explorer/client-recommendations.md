@@ -69,3 +69,7 @@ I recommend AWS because the company needs reliable infrastructure that can serve
 
 - [AWS Official Website](https://aws.amazon.com/)
 - [AWS Documentation](https://docs.aws.amazon.com/)
+- [Microsoft Azure Official Website](https://azure.microsoft.com/)
+- [Microsoft Azure Documentation](https://learn.microsoft.com/en-us/azure/)
+- [Google Cloud Official Website](https://cloud.google.com/)
+- [Google Cloud Documentation](https://docs.cloud.google.com/)
