@@ -30,6 +30,18 @@ Google Cloud is a strong choice for Artificial Intelligence and Kubernetes. It p
 
 I would choose Google Cloud because it offers useful services for Artificial Intelligence, data analytics, and Kubernetes. I believe these services would help me develop my knowledge and skills in modern cloud computing.
 
+## Equivalent Cloud Services
+
+| Service Category | AWS | Microsoft Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+This table shows the equivalent services provided by AWS, Microsoft Azure, and Google Cloud. Although the services have different names, they provide similar functions for computing, storage, identity management, databases, and container management.
+
 ## References & Sources
 
 - [AWS Official Website](https://aws.amazon.com/)
