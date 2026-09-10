@@ -21,7 +21,3 @@ If this Linux server were migrated to the cloud, it could be hosted using a virt
 | GCP | Compute Engine |
 
 These services can provide virtual machines that run Linux operating systems. The choice would depend on the organization's budget, performance requirements, existing systems, and preferred cloud provider.
-
-### Evidence
-
-![KillerCoda Linux Terminal](screenshots/killercoda-terminal.png)
