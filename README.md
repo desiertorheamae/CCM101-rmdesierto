@@ -12,3 +12,4 @@ This repository contains my laboratory activities, exercises, documentation, and
 - [Laboratory 02: Build the Cloud Infrastructure](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint)
 - [Laboratory 03: Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer)
 - [Laboratory 04: Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer/)
+- [Laboratory 05: Cloud Data Engineer](Laboratory-05-Cloud-Data-Engineer/)
