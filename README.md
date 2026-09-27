@@ -2,9 +2,11 @@
 
 ## About Me
 
-**Name:** Rhea Mae C. Desierto
-**Year/Block:** 4th Year – Block E
-**Course:** Bachelor of Science in Information Technology (BSIT)
+**Rhea Mae C. Desierto**  
+4th Year – Block E  
+Bachelor of Science in Information Technology (BSIT)
+
+> Cloud Computing Student | Technology Enthusiast | Aspiring IT Professional
 
 
 This repository contains my laboratory activities, exercises, documentation, and reflections completed throughout the semester. It serves as my Cloud Computing portfolio and records my learning progress and experiences throughout the course.
