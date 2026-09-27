@@ -1,0 +1,7 @@
+Writing a `docker-compose.yml` file makes things easier for a cloud engineer. It uses the idea of Infrastructure as Code, or IaC. With a compose file, you do not need to type many `docker run` commands. You can set networks, ports, and environment variables in one place. You save that setup as a file, keep it in GitHub, and reuse it later. Then you can start the whole multi-tier setup with one command like `docker-compose up -d`. This also cuts down on mistakes that happen during manual setup. It makes deployments feel the same across dev, test, and other setups.
+
+I also noticed something about YAML. It does not forgive spacing errors. Indentation has to be correct. If you use tabs, or if the alignment is off, Docker Compose can fail to read the file. Syntax errors can show up right away. So you have to pay attention to how the YAML is laid out.
+
+Environment variables matter too, especially things like `MYSQL_PASSWORD` and `MYSQL_HOST`. They help the app and the database containers find each other. These values get used when the containers start. Because of that, you do not need to bake every setting into the container image. It is simpler to adjust the config later when requirements change.
+
+Putting Nextcloud and MariaDB together helped me understand container setup in a more concrete way. It showed how container tools can handle multi-tier deployments without you doing every step by hand. Many parts that would usually take separate setup actions can be handled in one go.
