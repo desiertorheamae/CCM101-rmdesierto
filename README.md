@@ -6,7 +6,7 @@
 4th Year – Block E  
 Bachelor of Science in Information Technology (BSIT)
 
-> Cloud Computing Student | Technology Enthusiast | Aspiring IT Professional
+> BSIT Student | Technology Enthusiast | Aspiring IT Professional
 
 
 This repository contains my laboratory activities, exercises, documentation, and reflections completed throughout the semester. It serves as my Cloud Computing portfolio and records my learning progress and experiences throughout the course.
