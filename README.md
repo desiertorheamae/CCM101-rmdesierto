@@ -2,7 +2,10 @@
 
 ## About Me
 
-Hello! My name is Rhea Mae C. Desierto. I am a fourth-year Bachelor of Science in Information Technology (BSIT) student from Block E.
+**Name:** Rhea Mae C. Desierto
+**Year/Block:** 4th Year – Block E
+**Course:** Bachelor of Science in Information Technology (BSIT)
+
 
 This repository contains my laboratory activities, exercises, documentation, and reflections completed throughout the semester. It serves as my Cloud Computing portfolio and records my learning progress and experiences throughout the course.
 
@@ -13,3 +16,4 @@ This repository contains my laboratory activities, exercises, documentation, and
 - [Laboratory 03: Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer)
 - [Laboratory 04: Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer/)
 - [Laboratory 05: Cloud Data Engineer](Laboratory-05-Cloud-Data-Engineer/)
+- [Laboratory 06: Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer/)
