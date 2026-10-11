@@ -14,3 +14,13 @@ Container observability helps engineers understand the health and performance of
 ## Importance
 
 Container observability helps Cloud Operations Engineers detect problems early, investigate incidents, and maintain application availability.
+
+## Container Resource Metrics
+
+Command used: `docker stats clientwebsite`
+
+- **Memory Usage:** [Enter the observed value]
+- **CPU Usage:** [Enter the observed percentage]
+- **Network I/O:** [Enter the observed value if required]
+
+These metrics help determine whether the container is using server resources efficiently.
