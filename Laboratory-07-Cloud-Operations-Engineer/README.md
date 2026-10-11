@@ -1,19 +1,27 @@
 # Laboratory 07: Cloud Operations Engineer
 
-## Overview
+## Mission Overview
 
-This laboratory focuses on establishing a host system baseline and understanding the importance of monitoring server resources. It includes checking memory usage, disk capacity, CPU load, and running processes in an Ubuntu environment.
+This laboratory focuses on monitoring host resources, deploying an Nginx web server in Docker, generating HTTP traffic, analyzing application logs, and checking real-time container metrics.
 
 ## Objectives
 
-- Check the server's memory usage and available RAM.
-- Identify the root filesystem's storage capacity.
-- Observe running processes and CPU metrics using `top`.
-- Document the baseline results and the importance of system monitoring.
+- Establish a baseline for host memory and disk usage.
+- Deploy and test an Nginx container.
+- Generate successful HTTP requests and a 404 error.
+- Analyze container logs to identify failed requests.
+- Monitor CPU and memory consumption.
 
-## Files
+## Monitoring Commands Executed
 
-- `system-baseline-report.md` – Host system resource measurements and analysis.
-- `container-observability.md` – Notes on container monitoring and observability.
-- `reflection.md` – Lessons learned from the laboratory.
-- `screenshots/` – Evidence collected during the tasks.
+- `free -h` – Check memory usage.
+- `df -h /` – Check root filesystem capacity.
+- `top` – Observe CPU activity and running processes.
+- `docker ps` – List running containers.
+- `curl` – Generate HTTP requests.
+- `docker logs clientwebsite` – Review application logs.
+- `docker stats clientwebsite` – Monitor container resources.
+
+## Skills Learned
+
+This laboratory developed my skills in Linux system monitoring, Docker container deployment, HTTP testing, log analysis, and resource monitoring. It also demonstrated how application logs and performance metrics support troubleshooting and service reliability.
