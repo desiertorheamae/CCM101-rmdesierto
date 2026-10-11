@@ -15,6 +15,16 @@ Container observability helps engineers understand the health and performance of
 
 Container observability helps Cloud Operations Engineers detect problems early, investigate incidents, and maintain application availability.
 
+## Application Logging
+
+### HTTP 404 Error
+
+Paste the exact log line showing the `404` response here.
+
+### Why Application Logs Matter
+
+Application logs help engineers identify failed requests, error codes, and other events that may affect users. They provide useful evidence for troubleshooting problems and determining what needs to be fixed.
+
 ## Container Resource Metrics
 
 Command used: `docker stats clientwebsite`
