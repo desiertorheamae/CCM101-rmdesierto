@@ -1,21 +1,46 @@
 # Laboratory 08: Cloud Security Engineer
 
-## Overview
+## 1. Mission Overview
 
-This laboratory focuses on implementing essential cloud security practices on an Ubuntu server. It involves reviewing fundamental security principles, deploying a web application using Docker and Nginx, and configuring the Uncomplicated Firewall (UFW) to control incoming network traffic.
+This laboratory focuses on securing an Ubuntu server using Docker, Nginx, and the Uncomplicated Firewall (UFW). It demonstrates how firewall rules and proper port management help protect a server from unauthorized network access.
 
-## Objectives
+## 2. Objectives
 
-- Explain the principles of Least Privilege, attack surface reduction, and the Default Deny policy.
-- Deploy and verify an Nginx web application using Docker.
-- Establish a baseline of application connectivity before configuring firewall rules.
+- Understand Least Privilege, attack surface reduction, and Default Deny.
+- Deploy and test an Nginx web application using Docker.
 - Configure UFW to deny incoming traffic by default.
-- Allow incoming SSH connections and traffic on port 8080 for the required services.
-- Verify the firewall configuration and confirm application connectivity after implementation.
+- Allow SSH on port 22 and TCP traffic on port 8080.
+- Verify firewall rules and application connectivity.
+- Document the procedures and results using Markdown.
 
-## Laboratory Files
+## 3. Commands Executed
 
-- `security-audit-report.md` – Documents fundamental security principles, security best practices, and the findings of the server security audit.
-- `firewall-configuration.md` – Records the firewall configuration commands, implemented rules, and verification results.
-- `reflection.md` – Summarizes the knowledge gained, challenges encountered, and lessons learned throughout the laboratory.
-- `screenshots/` – Contains screenshots documenting the execution and verification of the laboratory checkpoints.
+```bash
+sudo ufw allow ssh
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+sudo ufw enable
+sudo ufw status verbose
+sudo ufw allow 8080/tcp
+sudo ufw status numbered
+curl -i http://localhost:8080
+```
+
+## 4. Laboratory Files
+
+- `security-audit-report.md` – Documents security principles and audit findings.
+- `firewall-configuration.md` – Records firewall commands and configuration.
+- `reflection.md` – Presents the lessons learned from the mission.
+- `screenshots/` – Contains evidence of application deployment and firewall verification.
+
+## 5. Skills Learned
+
+- Configuring Linux firewalls using UFW.
+- Managing network ports and access rules.
+- Deploying web applications using Docker and Nginx.
+- Testing application connectivity using `curl`.
+- Writing technical documentation using Markdown.
+
+## 6. Conclusion
+
+This laboratory improved my understanding of server security, firewall configuration, and network access control. It demonstrated the importance of restricting unnecessary connections and allowing only authorized traffic to reduce security risks in cloud environments.
