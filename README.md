@@ -20,3 +20,4 @@ This repository contains my laboratory activities, exercises, documentation, and
 - [Laboratory 05: Cloud Data Engineer](Laboratory-05-Cloud-Data-Engineer/)
 - [Laboratory 06: Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer/)
 - [Laboratory 07: Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer/)
+- [Laboratory 08: Cloud Security Engineer](./Laboratory-08-Cloud-Security-Engineer/)
