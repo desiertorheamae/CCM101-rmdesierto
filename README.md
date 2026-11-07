@@ -22,3 +22,4 @@ This repository contains my laboratory activities, exercises, documentation, and
 - [Laboratory 07: Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer/)
 - [Laboratory 08: Cloud Security Engineer](./Laboratory-08-Cloud-Security-Engineer/)
 - [Laboratory 09: Cloud Automation Engineer](./Laboratory-09-Cloud-Automation-Engineer/)
+- [Laboratory 10: Enterprise Cloud Architect](./Laboratory-10-Enterprise-Cloud-Architect/)
